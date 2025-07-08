@@ -1,0 +1,1 @@
+export const USER_SAVED_SUCCESSFULLY = 'User saved successfully';
