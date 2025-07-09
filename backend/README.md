@@ -29,3 +29,14 @@ npm test
 ```
 npm run test:coverage
 ```
+
+## Build docker file
+```
+docker buildx build -t user-portal-be .
+```
+
+## Run the container
+
+```
+docker run user-portal-be
+```
